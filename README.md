@@ -7,7 +7,7 @@ Do the following steps to run tests:
 - Be sure you have Node.js installed or install it from here https://nodejs.org/
 - Open cmd 
 - Move to the root test folder and run: **npx cypress run**, you will get following result 
-![image](https://user-images.githubusercontent.com/42312812/130062390-dfc127c5-9f1f-4392-ac31-9345f0bcbd4d.png)
+![alt text](https://user-images.githubusercontent.com/42312812/130062390-dfc127c5-9f1f-4392-ac31-9345f0bcbd4d.png)
 
 **Configuration**
 - in **cypress.json** file **baseUrl**, **username** and **password** are defined
