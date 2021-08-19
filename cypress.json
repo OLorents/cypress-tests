@@ -1,6 +1,5 @@
 {
-    "baseUrl": "https://parabank.parasoft.com",
-    "ignoreTestFiles": "**/2-advanced-examples/*.js",
+    "baseUrl": "https://parabank.parasoft.com",    
     "viewportHeight": 1080,
     "viewportWidth": 1920,
     "env": {
