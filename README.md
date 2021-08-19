@@ -4,7 +4,7 @@ This project provides smoke tests for dummy website. Cypress and Java Script wer
 **Run tests**
 Do the following steps to run tests:
 - Clone this repository
-- Be sure you have Node.js installed or install it from here https://nodejs.org/
+- Be sure that you have Node.js installed or install it from here https://nodejs.org/
 - Open cmd 
 - Move to the root test folder and run: **npx cypress run**, you will get following result 
 
