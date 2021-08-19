@@ -24,6 +24,6 @@ Do the following steps to run tests:
  
 ![alt text](https://user-images.githubusercontent.com/42312812/130062112-265d55fe-6d02-4a42-8a83-b581ab551b1d.png)
 
-- Test are in integration\parabank-tests folder
+- All tests are in integration\parabank-tests folder
 
  ![alt text](https://user-images.githubusercontent.com/42312812/130062365-421988c8-8e91-471e-b98a-41098ceb1dc9.png)
